@@ -5,7 +5,9 @@ title: Soheun Yi
 ## About
 I'm Soheun Yi. I major in Mathematics at Seoul National University.
 
-I have solid background on Python I had built from two years of experience in cryptocurrency market data analysis. I also have programming experience in Rust, JavaScript, Julia, C and CUDA. 
+Currently I conduct research on monotone operator optimization theory under supervision of professor Ernest Ryu.
+
+I have worked as a quantative researcher in a cryptocurrency fund Hyperithm. From conducting cryptocurrency market data analysis, I have built solid background on Python, especially in preprocessing and analyzing large dataset. I also have wide range of programming experience in variety of languages: BigQuery(Regex), C, CUDA, JavaScript, Julia, Rust and TypeScript.
 
 I enjoy visualizing mathematical concepts. You can check out my trial of [visualization of interpolation methods][na_visualization], programmed in Python and JavaScript(React). More interpolation methods might be added in the future.
 
