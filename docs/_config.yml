@@ -30,6 +30,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isoheun 
 github_username: lsdluis1 
 
+analytics:
+  provider : "google-gtag"
+  google: 
+    tracking_id : "G-NRJJLX7MGS"
+    anonymize_ip : false
+
 # Build settings
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
