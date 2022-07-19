@@ -42,13 +42,10 @@ October 2021 – Present
 ## Teaching Experiences
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
 February 2019
-- Translating and defensing participants’ answers
 - Team Korea : 2nd place
   
 **Teaching Assistant at Korea Mathematics Olympiad Winter School, Daejeon**\
 January 2018
-- Making questions for mock IMO
-- Teaching challenging olympiad problems
 
 **Voluntary Teaching for Low-income Children**\
 March 2014 – March 2017, March 2019 – June 2019
