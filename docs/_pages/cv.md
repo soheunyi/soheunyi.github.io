@@ -2,14 +2,6 @@
 permalink: /cv/
 title: Curriculum Vitae
 ---
-## Employment History
-**Quantative Analyst at Hyperithm, Seoul**\
-August 2019 – August 2021
-- Developed cryptocurrency trading strategies
-  - Scalable options market simulation
-  - Transaction monitoring and analysis
-  - Portfolio management assistant
-
 ## Education
 **B.S in Mathematics at Seoul National University**\
 March 2017 – Present
@@ -22,24 +14,24 @@ March 2014 – February 2017
 - Graduated with Excellence Awards
 - GPA 4.29/4.3
 
-## Research Interest
-- Optimization via operator splitting scheme
-- Causal discovery
+## Experience
+### Employment
+**Quantative Analyst at Hyperithm, Seoul**\
+August 2019 – August 2021
+- Developed cryptocurrency trading strategies
+  - Scalable options market simulation
+  - Transaction monitoring and analysis
+  - Portfolio management assistant
 
-## Research Experiences
+### Research
 **Research Intern at Hyungbin Park’s Lab**\
 June 2019 – August 2019
-- Studied introductory stochastic optimal control
-  
+- Stochastic optimal control
+
 **Research Intern at Ryu’s Optimization Group**\
 October 2021 – Present
-- Scaled relative graphs(SRG) : Tight coefficients for splitting methods
-
-## Publications
-- Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
-  - First co-author.
-
-## Teaching Experiences
+- Convergence analyses of Davis–Yin splitting via scaled relative graphs.
+### Teaching
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
 February 2019
 - Team Korea : 2nd place
@@ -51,6 +43,12 @@ January 2018
 March 2014 – March 2017, March 2019 – June 2019
 - Teaching elementary school curriculum to low-income children
 
+## Research Interests
+- Optimization via operator splitting scheme
+- Causal discovery
+## Publications
+- Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
+  - First co-author.
 ## Honors and Awards
 **Simon Marais Mathematics Competiton, Pair Merit Prize**\
 October 2020
@@ -91,7 +89,7 @@ April 2014, 2016
 - Graduate Courses
   - Scalable High Performance Computing, Graph Neural Networks, Reinforcement Learning.
 
-## Extra-curricular Activities
+## Extracurricular
 **Numerical Analysis Visualization**\
 March 2021
 - Visualizing numerical interpolation methods
