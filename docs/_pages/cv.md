@@ -86,15 +86,15 @@ April 2014, 2016
 ## Selected Courses
 **Mathematics Courses**
 - Undergraduate Courses
-  - Linear Algebra 1,2, Algebra 1,2, Mathematical Analysis 1,2, Numerical Analysis, Mathematical and Numerical Optimization, Mathematical Foundations of Deep Neural Networks, Discrete Mathematics, Financial Mathematics 1, Topology 1, Differential Geometry 1, Differential Equations
+  - Numerical Analysis, Mathematical Optimization, Financial Mathematics, Topology, Differential Geometry, Differential Equations.
 - Graduate Courses
-  - Functional Analysis 2
+  - Real Analysis, Functional Analysis, Topics in Applied Mathematics: Infinitely Large Neural Networks.
   
 **Other Courses**
 - Undergraduate Courses
-  - Mathematical Statistics 1,2, Game Theory and Applications
+  - Mathematical Statistics, Regression Analysis, Game Theory and Applications.
 - Graduate Courses
-  - Scalable High Performance Computing
+  - Scalable High Performance Computing, Graph Neural Networks, Reinforcement Learning.
 
 ## Extra-curricular Activities
 **Numerical Analysis Visualization**\
@@ -106,8 +106,6 @@ March 2021
 
 **SNU Vocal and Hip-hop Club "Triple-H"**\
 March 2019 – October 2019
-- Regular performance, busking, recording, etc.
 
-**Vocal at Limsup Band**\
+**Leader, Vocal at Limsup Band**\
 March 2017 – October 2018
-- Organized regular performance as a leader
