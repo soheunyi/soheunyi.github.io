@@ -2,6 +2,7 @@
 permalink: /cv/
 title: Curriculum Vitae
 ---
+[PDF](../assets/soheunyi_cv.pdf)
 # Education
 **B.S in Mathematics at Seoul National University**\
 March 2017 – Present
