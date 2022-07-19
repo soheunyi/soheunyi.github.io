@@ -54,15 +54,13 @@ March 2014 – March 2017, March 2019 – June 2019
 ## Honors and Awards
 **Simon Marais Mathematics Competiton, Pair Merit Prize**\
 October 2020
-- With Dooyoung Kang
-  
+
 **College Scholarship from Korea Foundation for Advanced Studies**\
 March 2019 – Present
 - 5k/year
 
 **Korea Undergraduates Mathematics Competition, Field 1 Gold Prize**\
 December 2018
-- Among Mathematics Major Students
 
 **Presidential Science Scholarship from Korea Student Aid Foundation**\
 March 2017 – Present
