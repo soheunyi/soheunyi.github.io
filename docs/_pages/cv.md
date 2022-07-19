@@ -2,7 +2,7 @@
 permalink: /cv/
 title: Curriculum Vitae
 ---
-## Education
+# Education
 **B.S in Mathematics at Seoul National University**\
 March 2017 – Present
 - Total GPA 4.21/4.3
@@ -14,8 +14,8 @@ March 2014 – February 2017
 - Graduated with Excellence Awards
 - GPA 4.29/4.3
 
-## Experience
-### Employment
+# Experience
+## Employment
 **Quantative Analyst at Hyperithm, Seoul**\
 August 2019 – August 2021
 - Developed cryptocurrency trading strategies
@@ -23,7 +23,7 @@ August 2019 – August 2021
   - Transaction monitoring and analysis
   - Portfolio management assistant
 
-### Research
+## Research
 **Research Intern at Hyungbin Park’s Lab**\
 June 2019 – August 2019
 - Stochastic optimal control
@@ -31,7 +31,8 @@ June 2019 – August 2019
 **Research Intern at Ryu’s Optimization Group**\
 October 2021 – Present
 - Convergence analyses of Davis–Yin splitting via scaled relative graphs.
-### Teaching
+
+## Teaching
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
 February 2019
 - Team Korea : 2nd place
@@ -43,13 +44,15 @@ January 2018
 March 2014 – March 2017, March 2019 – June 2019
 - Teaching elementary school curriculum to low-income children
 
-## Research Interests
+# Research Interests
 - Optimization via operator splitting scheme
 - Causal discovery
-## Publications
+
+# Publications
 - Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
   - First co-author.
-## Honors and Awards
+
+# Honors and Awards
 **Simon Marais Mathematics Competiton, Pair Merit Prize**\
 October 2020
 
@@ -76,7 +79,7 @@ February 2016
 **Korea Mathematics Olympiad(KMO) Final Round, Excellence Award**\
 April 2014, 2016
 
-## Selected Courses
+# Selected Courses
 **Mathematics Courses**
 - Undergraduate Courses
   - Numerical Analysis, Mathematical Optimization, Financial Mathematics, Topology, Differential Geometry, Differential Equations.
@@ -89,7 +92,7 @@ April 2014, 2016
 - Graduate Courses
   - Scalable High Performance Computing, Graph Neural Networks, Reinforcement Learning.
 
-## Extracurricular
+# Extracurricular
 **Numerical Analysis Visualization**\
 March 2021
 - Visualizing numerical interpolation methods
