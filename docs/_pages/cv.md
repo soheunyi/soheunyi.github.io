@@ -36,8 +36,8 @@ October 2021 – Present
 - Scaled relative graphs(SRG) : Tight coefficients for splitting methods
 
 ## Publications
-- Jongmin Lee*, **Soheun Yi***, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
-  - * Equal contribution.
+- Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
+  - First co-author.
 
 ## Teaching Experiences
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
