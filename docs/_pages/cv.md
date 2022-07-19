@@ -6,19 +6,16 @@ title: Curriculum Vitae
 **Quantative Analyst at Hyperithm, Seoul**\
 August 2019 – August 2021
 - Developed cryptocurrency trading strategies
-  - Designed and developed data analysis tools
-  - Transaction monitoring and analysis tools
-  - Scalable options market simulation and opportunity analysis tools
-  - De-Fi trading simulation tools
+  - Scalable options market simulation
+  - Transaction monitoring and analysis
   - Portfolio management assistant
-- Introduced machine learning strategies
 
 ## Education
 **B.S in Mathematics at Seoul National University**\
 March 2017 – Present
 - Total GPA 4.21/4.3
 - Major GPA 4.23/4.3
-- Dean’s List : Spring 2017, Fall 2017, Spring 2018, Fall 2018, Spring 2019
+- Dean’s List : Spring 2017--Fall 2019, Fall 2021
   
 **Seoul Science High School**\
 March 2014 – February 2017
@@ -26,8 +23,8 @@ March 2014 – February 2017
 - GPA 4.29/4.3
 
 ## Research Interest
-- Monotone operator optimization
-- Scalable optimization algorithms
+- Optimization via operator splitting scheme
+- Causal discovery
 
 ## Research Experiences
 **Research Intern at Hyungbin Park’s Lab**\
@@ -37,6 +34,10 @@ June 2019 – August 2019
 **Research Intern at Ryu’s Optimization Group**\
 October 2021 – Present
 - Scaled relative graphs(SRG) : Tight coefficients for splitting methods
+
+## Publications
+- Jongmin Lee*, **Soheun Yi***, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
+  - * Equal contribution.
 
 ## Teaching Experiences
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
