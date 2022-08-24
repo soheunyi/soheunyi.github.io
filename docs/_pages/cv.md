@@ -2,36 +2,41 @@
 permalink: /cv/
 title: Curriculum Vitae
 ---
-[PDF](../assets/soheunyi_cv.pdf)
+[Downloadable PDF](../assets/soheunyi_cv.pdf)
 # Education
 **B.S in Mathematics at Seoul National University**\
-March 2017 – Present
+March 2017 -- Present
 - Total GPA 4.21/4.3
 - Major GPA 4.23/4.3
-- Dean’s List : Spring 2017--Fall 2019, Fall 2021
+- Dean’s List : Spring 2017--Fall 2019, Fall 2021--Spring 2022
   
 **Seoul Science High School**\
-March 2014 – February 2017
+March 2014 -- February 2017
 - Graduated with Excellence Awards
 - GPA 4.29/4.3
 
+# Research Interests
+- Optimization via operator splitting scheme
+- Causal discovery
+
 # Experience
+## Research
+**Research Intern at Hyungbin Park’s Lab**\
+June 2019 -- August 2019
+- Stochastic optimal control
+
+**Research Intern at Ryu’s Optimization Group**\
+October 2021 -- Present
+- Convergence analyses of Davis--Yin splitting via scaled relative graphs.
+
 ## Employment
 **Quantative Analyst at Hyperithm, Seoul**\
-August 2019 – August 2021
+August 2019 -- August 2021
+- Served as an alternative for mandatory military service
 - Developed cryptocurrency trading strategies
   - Scalable options market simulation
   - Transaction monitoring and analysis
   - Portfolio management assistant
-
-## Research
-**Research Intern at Hyungbin Park’s Lab**\
-June 2019 – August 2019
-- Stochastic optimal control
-
-**Research Intern at Ryu’s Optimization Group**\
-October 2021 – Present
-- Convergence analyses of Davis–Yin splitting via scaled relative graphs.
 
 ## Teaching
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
@@ -42,30 +47,30 @@ February 2019
 January 2018
 
 **Voluntary Teaching for Low-income Children**\
-March 2014 – March 2017, March 2019 – June 2019
+March 2014 -- March 2017, March 2019 -- June 2019
 - Teaching elementary school curriculum to low-income children
-
-# Research Interests
-- Optimization via operator splitting scheme
-- Causal discovery
 
 # Publications
 - Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
   - First co-author.
 
 # Honors and Awards
+
+**Graduate Scholarship from Korea Foundation for Advanced Studies**\
+August 2022 -- Present
+
 **Simon Marais Mathematics Competiton, Pair Merit Prize**\
 October 2020
 
-**College Scholarship from Korea Foundation for Advanced Studies**\
-March 2019 – Present
+**Undergraduate Scholarship from Korea Foundation for Advanced Studies**\
+March 2019 -- Present
 - 5k/year
 
 **Korea Undergraduates Mathematics Competition, Field 1 Gold Prize**\
 December 2018
 
 **Presidential Science Scholarship from Korea Student Aid Foundation**\
-March 2017 – Present
+March 2017 -- Present
 - Full enrollment fee + 5k+/year from Korea Government
 
 **Korea Final Candidates for IMO**\
@@ -102,7 +107,7 @@ March 2021
 - [Github Sites](https://lsdluis1.github.io/na_visualization/)
 
 **SNU Vocal and Hip-hop Club "Triple-H"**\
-March 2019 – October 2019
+March 2019 -- October 2019
 
 **Leader, Vocal at Limsup Band**\
-March 2017 – October 2018
+March 2017 -- October 2018
