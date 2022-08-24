@@ -30,6 +30,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: isoheun 
 github_username: lsdluis1
 
+head_scripts:
+- link_icon.js
+
 analytics:
   provider : "google-gtag"
   google: 
