@@ -7,7 +7,7 @@ I am Soheun Yi. I major Mathematics at Seoul National University.
 
 I am interested in optimization theory and causal discovery. Especially, I'm trying to find connection between two disciplines.
 
-Currently I am conducting research on monotone operator optimization theory under supervision of professor [Ernest K. Ryu][Ryu] and causal discovery under supervision of professor [Sanghack Lee][Lee]. 
+Currently I am conducting research on monotone operator optimization theory under supervision of Professor [Ernest K. Ryu][Ryu] and causal discovery under supervision of Professor [Sanghack Lee][Lee]. 
 
 I have worked as a quantative researcher in a cryptocurrency fund Hyperithm. From conducting cryptocurrency market data analysis, I have built solid background on Python, especially in preprocessing and analyzing large datasets. I also have wide range of programming experience in variety of languages: BigQuery(Regex), C, CUDA, JavaScript, Julia, Rust and TypeScript.
 
