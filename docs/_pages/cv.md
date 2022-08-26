@@ -56,13 +56,13 @@ March 2014 -- March 2017, March 2019 -- June 2019
 
 # Honors and Awards
 
-**Graduate Scholarship from Korea Foundation for Advanced Studies**\
+**Overseas PhD Scholarship from [Korea Foundation for Advanced Studies][KFAS]**\
 August 2022 -- Present
 
-**Simon Marais Mathematics Competiton, Pair Merit Prize**\
+**[Simon Marais Mathematics Competiton][SMMC], Pair Merit Prize**\
 October 2020
 
-**Undergraduate Scholarship from Korea Foundation for Advanced Studies**\
+**Undergraduate Scholarship from [Korea Foundation for Advanced Studies][KFAS]**\
 March 2019 -- Present
 - 5k/year
 
@@ -73,16 +73,16 @@ December 2018
 March 2017 -- Present
 - Full enrollment fee + 5k+/year from Korea Government
 
-**Korea Final Candidates for IMO**\
+**Korea Final Candidates for International Mathematical Olympiad**\
 May 2016
 
-**Asian Pacific Mathematics Olympiad(APMO), Bronze Award**\
+**Asian Pacific Mathematical Olympiad, Bronze Award**\
 May 2016
 
-**Romanian Master of Mathematics(RMM), Silver Medal**\
+**Romanian Master of Mathematic, Silver Medal**\
 February 2016
 
-**Korea Mathematics Olympiad(KMO) Final Round, Excellence Award**\
+**Korean Mathematical Olympia Final Round, Excellence Award**\
 April 2014, 2016
 
 # Selected Courses
@@ -111,3 +111,6 @@ March 2019 -- October 2019
 
 **Leader, Vocal at Limsup Band**\
 March 2017 -- October 2018
+
+[KFAS]: https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php
+[SMMC]: https://www.simonmarais.org/
