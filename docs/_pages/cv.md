@@ -82,9 +82,6 @@ May 2016
 **Romanian Master of Mathematic, Silver Medal**\
 February 2016
 
-**Korean Mathematical Olympiad Final Round, Excellence Award**\
-April 2014, 2016
-
 # Selected Courses
 **Mathematics Courses**
 - Undergraduate Courses
