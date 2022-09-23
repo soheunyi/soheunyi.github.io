@@ -56,9 +56,6 @@ March 2014 -- March 2017, March 2019 -- June 2019
 
 # Honors and Awards
 
-**Overseas PhD Candidate Scholarship from [Korea Foundation for Advanced Studies][KFAS]**\
-August 2022 -- Present
-
 **[Simon Marais Mathematics Competiton][SMMC], Pair Merit Prize**\
 October 2020
 
