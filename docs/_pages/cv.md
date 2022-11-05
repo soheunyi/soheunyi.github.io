@@ -30,10 +30,10 @@ October 2021 -- Present
 - Convergence analyses of Davis--Yin splitting via scaled relative graphs.
 
 ## Employment
-**Quantative Analyst at Hyperithm, Seoul**\
+**Quantitative Analyst at Hyperithm, Seoul**\
 August 2019 -- August 2021
-- Served as an alternative for mandatory military service
-- Developed cryptocurrency trading strategies
+- Served as an alternative for a mandatory military service
+- Developed quantitative trading strategies
   - Scalable options market simulation
   - Transaction monitoring and analysis
   - Portfolio management assistant
