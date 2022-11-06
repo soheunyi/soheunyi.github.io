@@ -51,7 +51,7 @@ March 2014 -- March 2017, March 2019 -- June 2019
 - Teaching elementary school curriculum to low-income children
 
 # Publications
-- Jongmin Lee*, **Soheun Yi**, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
+- Jongmin Lee*, **Soheun Yi**\*, and Ernest K. Ryu, "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs", preprint, 2022, [arXiv:2207.04015](https://arxiv.org/abs/2207.04015)
   - First co-author.
 
 # Honors and Awards
