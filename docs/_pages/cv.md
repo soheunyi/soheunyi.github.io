@@ -12,31 +12,32 @@ March 2017 -- Present
   
 **Seoul Science High School**\
 March 2014 -- February 2017
+- A specialized high school for gifted students in mathematics and science
 - Graduated with Excellence Awards
 - GPA 4.29/4.3
 
 # Research Interests
-- Optimization via operator splitting scheme
-- Causal discovery
+- I am interested in **optimization theory** and its application to **causality**.
+- I am interested in **causal discovery**, especially regarding cyclic linear structural equation models.
 
 # Experience
 ## Research
-**Research Intern at Hyungbin Park’s Lab**\
-June 2019 -- August 2019
-- Stochastic optimal control
-
 **Research Intern at Ryu’s Optimization Group**\
 October 2021 -- Present
 - Convergence analyses of Davis--Yin splitting via scaled relative graphs.
 
+**Research Intern at Hyungbin Park’s Lab**\
+June 2019 -- August 2019
+- Stochastic optimal control
+
+
 ## Employment
 **Quantitative Analyst at Hyperithm, Seoul**\
 August 2019 -- August 2021
-- Served as an alternative for a mandatory military service
-- Developed quantitative trading strategies
-  - Scalable options market simulation
+- Served as an alternative for a **mandatory military service**
+- Developed and implemented quantitative trading strategies.
+  - Options market simulation
   - Transaction monitoring and analysis
-  - Portfolio management assistant
 
 ## Teaching
 **Deputy Leader of Team Korea at Romanian Master of Mathematics(RMM), Bucharest**\
@@ -61,17 +62,18 @@ October 2020
 
 **Undergraduate Scholarship from [Korea Foundation for Advanced Studies][KFAS]**\
 March 2019 -- Present
-- 5k/year
+- 3k/year
 
 **Korea Undergraduates Mathematics Competition, Field 1 Gold Prize**\
 December 2018
 
 **Presidential Science Scholarship from Korea Student Aid Foundation**\
 March 2017 -- Present
-- Full enrollment fee + 5k+/year from Korea Government
+- Full enrollment fee + 4k/year from Korea Government
 
 **Korea Final Candidates for International Mathematical Olympiad**\
 May 2016
+- Top 13 participants in Korea
 
 **Asian Pacific Mathematical Olympiad, Bronze Award**\
 May 2016
