@@ -276,8 +276,10 @@ GEM
 
 PLATFORMS
   arm64-darwin-21
+  arm64-darwin-22
 
 DEPENDENCIES
+  ffi (~> 1.15)
   github-pages (~> 221)
   jekyll-feed (~> 0.12)
   jekyll-include-cache
