@@ -1,12 +1,12 @@
 ---
-title: A data-driven prognostic score estimation
+title: A Data-Driven Prognostic Score Estimation
 date: 2022-11-29 01:00:00 +0000 
 ---
 
 
 [The prognostic score](https://academic.oup.com/biomet/article-abstract/95/2/481/230183?redirectedFrom=fulltext) is an analog to the propensity score. 
 This sentence is pretty vague; to be mathematically precise, let $X$ and $Y$ denote covariates and outcomes, respectively.
-Then, we say $\psi(X)$ is a prognostic score if $Y \perp X \,|\, \phi(X)$.
+Then, we say $\psi(X)$ is a prognostic score if $Y \perp X \,|\, \psi(X)$.
 Intuitively, a prognostic score is a 'summary' of covariates relevant to the outcome.
 
 Then, how do we get or calculate a prognostic score $\psi(X)$? 
@@ -30,4 +30,6 @@ This process has a drawback in that we should select the number of independent c
 We may change how to choose the relevant components; for example, we can threshold mutual information. 
 
 To verify our method, we calculated the average treatment effect on the treated (ATT) by using the estimated prognostic score.
+
+You can check out our final report [Final Report](/assets/ci_fall_project_final_report.pdf).
 
