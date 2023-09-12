@@ -14,7 +14,7 @@ I was also a a quantitative analyst in [Hyperithm][hyperithm], where I built sol
 My [CV](../assets/soheunyi_cv.pdf) is here.
 
 # Contact
-Contact me via email at [lsdluis1 [at] gmail [dot] com](mailto:lsdluis1@gmail.com). 
+Contact me via email at [soheunyi [at] gmail [dot] com](mailto:soheunyi@gmail.com) or [soheuny [at] andrew [dot] cmu [dot] edu](mailto:soheuny@andrew.cmu.edu)
 
 [Ryu]: http://www.math.snu.ac.kr/~ernestryu/
 [Lee]: https://www.sanghacklee.me/
