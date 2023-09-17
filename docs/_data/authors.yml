@@ -5,10 +5,10 @@ Soheun Yi:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:lsdluis1@gmail.com"
+      url: "mailto:soheuny@andrew.cmu.edu"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsdluis1"
+      url: "https://github.com/soheunyi"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/soheun-yi-b7a923210/"
@@ -17,4 +17,4 @@ Soheun Yi:
       url: "https://twitter.com/isoheun"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=tUMUdZQAAAAJ"
+      url: "https://scholar.google.com/citations?user=4JFBqoYAAAAJ"
