@@ -5,16 +5,16 @@ title: About
 ---
 Hi! I am Soheun Yi, a first-year PhD student at Carnegie Mellon University.
 
-My research interest spans between different (but firmly connected) fields: optimization theory, causality, and, machine learning.
+My research interest spans different fields firmly connected to theoretical machine learning: high-dimensional statistics, optimization theory, and causality.
 
-During my undergraduates, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
-I was also a a quantitative analyst in [Hyperithm][hyperithm], where I built solid background in data analysis especially in processing and analyzing large datasets. 
+During my undergraduate, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
+I was also a a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
 
 # Curriculum Vitae
 My [CV](../assets/soheunyi_cv.pdf) is here.
 
 # Contact
-Contact me via email at [soheunyi [at] gmail [dot] com](mailto:soheunyi@gmail.com) or [soheuny [at] andrew [dot] cmu [dot] edu](mailto:soheuny@andrew.cmu.edu)
+Contact me via email: soheuny [at] andrew [dot] cmu [dot] edu
 
 [Ryu]: http://www.math.snu.ac.kr/~ernestryu/
 [Lee]: https://www.sanghacklee.me/
