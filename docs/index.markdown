@@ -23,4 +23,5 @@ Contact me via email: soheuny [at] andrew [dot] cmu [dot] edu
 
 # News
 
+- **2024.06.** A paper entitled "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs" has been accepted to SIAM Journal on Optimization (SIOPT).
 - **2024.01.** A paper entitled "Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models" has been accepted in AISTATS 2024. 
