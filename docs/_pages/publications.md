@@ -12,4 +12,6 @@ title: Publications
 - Jongmin Lee*, **Soheun Yi**\*, and Ernest K. Ryu. "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs". Accepted to SIAM Journal on Optimization (SIOPT). [arXiv](https://arxiv.org/abs/2207.04015)
 
 ## Preprints
+- **Soheun Yi**, John Alison, and Mikael Kuusela. "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions". arXiv preprint, 2024. [arXiv](https://arxiv.org/abs/2409.06960)
+
 - **Soheun Yi** and Ernest K. Ryu. "Convergence Analyses of Davis–Yin Splitting via Scaled Relative Graphs II: Convex Optimization Problems". [arXiv](https://arxiv.org/abs/2211.15604)

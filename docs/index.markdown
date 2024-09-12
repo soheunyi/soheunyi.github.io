@@ -3,9 +3,10 @@ layout: single
 author_profile: true
 title: About
 ---
-Hi! I am Soheun Yi, a first-year PhD student at Carnegie Mellon University.
+Hi! I am Soheun Yi, a second-year PhD student at Carnegie Mellon University.
 
-My research interest spans different fields firmly connected to theoretical machine learning: high-dimensional statistics, optimization theory, and causality.
+My research interest spans applied statistics and machine learning for sciences.
+I am also interested in theoretical aspects of machine learning, especially in optimization theory.
 
 During my undergraduate, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
 I was also a a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
