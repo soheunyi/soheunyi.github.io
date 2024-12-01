@@ -8,11 +8,12 @@ Hi! I am Soheun Yi, a second-year PhD student at Department of Statistics & Data
 My research interest spans theoretical aspects of machine learning, somewhere between optimization theory and statistics.
 I am particularly fascinated by those topics that are inspired by real-world applications.
 
+I am working on applications of statistics and machine learning to [physical sciences][yialisonkuusela2024ml4ps].
+Before starting my PhD, I was a research scientist at [Krafton AI][kraftonai].
 During my undergraduate, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
 I started my research journey on theoretical aspects of machine learning, mainly on [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
-Recently, I am working on applications of statistics and machine learning to [physical sciences][yialisonkuusela2024ml4ps].
 
-I was also a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
+I was a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
 
 You can find my CV [here](../assets/soheunyi_cv.pdf). 
 
@@ -33,3 +34,4 @@ Email: soheuny [at] andrew [dot] cmu [dot] edu
 [yilee2024aistats]: https://proceedings.mlr.press/v238/yi24a.html
 [yileeryu2024siopt]: https://arxiv.org/abs/2207.04015
 [yialisonkuusela2024ml4ps]: https://arxiv.org/abs/2409.06960
+[kraftonai]: https://www.krafton.ai/en/
