@@ -6,7 +6,7 @@ title: About
 Hi! I am Soheun Yi, a second-year PhD student at Department of Statistics & Data Science, Carnegie Mellon University.
 
 My research interest spans theoretical aspects of machine learning, somewhere between optimization theory and statistics.
-Recently, I am particularly interested in optimization theory for continuous dynamics.
+Recently, I am particularly interested in optimal transport and continuous dynamics.
 I am fascinated by those topics that are inspired by real-world applications.
 
 I am working on applications of statistics and machine learning to [physical sciences][yialisonkuusela2024ml4ps].
