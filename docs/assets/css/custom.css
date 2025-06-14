@@ -1,0 +1,154 @@
+/* Override author profile styles */
+.author__urls-wrapper {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem !important;
+  margin-top: 0.5rem !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: relative !important;
+  transform: none !important;
+  width: 100% !important;
+  height: auto !important;
+  overflow: visible !important;
+  z-index: 10 !important;
+}
+
+.author__urls {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0.5rem !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  position: relative !important;
+  transform: none !important;
+  width: 100% !important;
+  height: auto !important;
+  overflow: visible !important;
+  z-index: 10 !important;
+}
+
+.author__urls li {
+  display: block !important;
+  margin: 0 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 100% !important;
+}
+
+.author__urls li a {
+  display: inline-block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  width: 100% !important;
+}
+
+/* Make Google Scholar icon larger */
+.author__urls li a .ai-google-scholar {
+  font-size: 1.2em !important;
+}
+
+/* Hide follow button */
+.author__urls-wrapper > .btn.btn--inverse {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  width: 0 !important;
+  height: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Override responsive styles */
+@media (max-width: 1024px) {
+  .author__urls-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    z-index: 10 !important;
+  }
+  
+  .author__urls {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    z-index: 10 !important;
+  }
+
+  .author__urls li {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: auto !important;
+  }
+
+  .author__urls li a {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: auto !important;
+  }
+}
+
+/* Additional overrides for very small screens */
+@media (max-width: 768px) {
+  .author__urls-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    z-index: 10 !important;
+  }
+  
+  .author__urls {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: wrap !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    transform: none !important;
+    width: 100% !important;
+    height: auto !important;
+    overflow: visible !important;
+    z-index: 10 !important;
+  }
+
+  .author__urls li {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: auto !important;
+  }
+
+  .author__urls li a {
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: auto !important;
+  }
+} 
