@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: About
 ---
-Hi! I am Soheun Yi, a second-year PhD student at Department of Statistics & Data Science, Carnegie Mellon University.
+Hi! I am Soheun Yi, a third-year PhD student at Department of Statistics & Data Science, Carnegie Mellon University.
 
 My research interest spans theoretical aspects of machine learning, somewhere between optimization theory and statistics.
 Recently, I am particularly interested in optimal transport and continuous dynamics.
@@ -14,6 +14,7 @@ Before starting my PhD, I was a research scientist at [Krafton AI][kraftonai].
 During my undergraduate, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
 I started my research journey on theoretical aspects of machine learning, mainly on [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
 
+I graduated from Seoul National University with a Bachelor's degree in Mathematical Sciences.
 I was a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
 
 You can find my CV [here](../assets/soheunyi_cv.pdf). 
@@ -23,6 +24,7 @@ Email: soheuny [at] andrew [dot] cmu [dot] edu
 
 # News
 
+- **2025.08.** A paper entitled "Convergence Analyses of Davis–Yin Splitting via Scaled Relative Graphs II: Convex Optimization Problems" has been accepted to Optimization.
 - **2024.12.** I will be presenting our work entitled "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions" at ML4PS Workshop at NeurIPS 2024.
 - **2024.06.** A paper entitled "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs" has been accepted to SIAM Journal on Optimization (SIOPT).
 - **2024.01.** A paper entitled "Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models" has been accepted in AISTATS 2024. 
