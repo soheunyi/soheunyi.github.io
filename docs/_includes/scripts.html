@@ -16,3 +16,12 @@
     "HTML-CSS": { availableFonts: ["TeX"] }
   });
 </script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll(".author__urls a").forEach(function (el) {
+      el.setAttribute("target", "_blank");
+      el.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>

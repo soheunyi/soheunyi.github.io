@@ -4,7 +4,7 @@ date: 2022-11-29 01:00:00 +0000
 ---
 
 
-[The prognostic score](https://academic.oup.com/biomet/article-abstract/95/2/481/230183?redirectedFrom=fulltext) is an analog to the propensity score. 
+[The prognostic score](https://academic.oup.com/biomet/article-abstract/95/2/481/230183?redirectedFrom=fulltext){:target="_blank"} is an analog to the propensity score. 
 This sentence is pretty vague; to be mathematically precise, let $X$ and $Y$ denote covariates and outcomes, respectively.
 Then, we say $\psi(X)$ is a prognostic score if $Y \perp X \,|\, \psi(X)$.
 Intuitively, a prognostic score is a 'summary' of covariates relevant to the outcome.
@@ -21,7 +21,7 @@ The main idea of this procedure is the following two steps:
 - Choose components most relevant to $Y$ among those.
   
 We use the independent component analysis (ICA) for the first step.
-I learned it while studying causal discovery; ICA is one prominent approach for causal discovery, including the seminal work [LinGAM](https://www.jmlr.org/papers/v7/shimizu06a.html). 
+I learned it while studying causal discovery; ICA is one prominent approach for causal discovery, including the seminal work [LinGAM](https://www.jmlr.org/papers/v7/shimizu06a.html){:target="_blank"}. 
 ICA assumes the sources are non-Gaussian, so we need the same assumption here. 
 
 For the second step, we use mutual information. 
@@ -31,5 +31,5 @@ We may change how to choose the relevant components; for example, we can thresho
 
 To verify our method, we calculated the average treatment effect on the treated (ATT) by using the estimated prognostic score.
 
-You can check out our final report [Final Report](/assets/ci_fall_project_final_report.pdf).
+You can check out our final report [Final Report](/assets/ci_fall_project_final_report.pdf){:target="_blank"}.
 
