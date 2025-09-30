@@ -9,7 +9,7 @@ I study theoretical aspects of machine learning, ranging from optimization theor
 My recent interest spans optimal transport and continuous dynamics with real-world applications, including [physical sciences][yialisonkuusela2024ml4ps].
 
 Prior to CMU, I worked as a research scientist at [Krafton AI][kraftonai] and as a quantitative analyst in [Hyperithm][hyperithm].
-At SNU, I was fortunate to be advised by Professors [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee], on research projects around theoretical aspects of machine learning, mainly [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
+At SNU, I was fortunate to be advised by Professors [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee] on research projects around theoretical aspects of machine learning, mainly [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
 
 You can find my CV [here](../assets/soheunyi_cv.pdf). 
 
