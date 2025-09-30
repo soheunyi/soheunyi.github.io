@@ -1,5 +1,12 @@
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+---
+# Only front matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes"; 
+
+// Custom overrides
+@import "custom/layout";
 
 .author__urls-wrapper {
   display: flex !important;
