@@ -3,19 +3,13 @@ layout: single
 author_profile: true
 title: About
 ---
-Hi! I am Soheun Yi, a third-year PhD student at Department of Statistics & Data Science, Carnegie Mellon University.
+I am a third-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. I hold a B.S. in Mathematical Sciences from Seoul National University. 
 
-My research interest spans theoretical aspects of machine learning, somewhere between optimization theory and statistics.
-Recently, I am particularly interested in optimal transport and continuous dynamics.
-I am fascinated by those topics that are inspired by real-world applications.
+I study theoretical aspects of machine learning, ranging from optimization theory to statistics.
+My recent interest spans optimal transport and continuous dynamics with real-world applications, including [physical sciences][yialisonkuusela2024ml4ps].
 
-I am working on applications of statistics and machine learning to [physical sciences][yialisonkuusela2024ml4ps].
-Before starting my PhD, I was a research scientist at [Krafton AI][kraftonai].
-During my undergraduate, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee].
-I started my research journey on theoretical aspects of machine learning, mainly on [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
-
-I graduated from Seoul National University with a Bachelor's degree in Mathematical Sciences.
-I was a quantitative analyst in [Hyperithm][hyperithm], where I built a solid background in data analysis, especially in processing and analyzing large datasets. 
+Prior to CMU, I worked as a research scientist at [Krafton AI][kraftonai] and as a quantitative analyst in [Hyperithm][hyperithm].
+At SNU, I was fortunate to be advised by Professors [Ernest K. Ryu][Ryu] and [Sanghack Lee][Lee], on research projects around theoretical aspects of machine learning, mainly [optimization theory][yileeryu2024siopt] and [graphical models][yilee2024aistats].
 
 You can find my CV [here](../assets/soheunyi_cv.pdf). 
 
