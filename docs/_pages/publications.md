@@ -15,5 +15,6 @@ title: Publications
 
   
 ## Preprints
-- **Soheun Yi**, John Alison, and Mikael Kuusela. "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions". ML4PS Workshop at NeurIPS 2024. [arXiv](https://arxiv.org/abs/2409.06960){:target="_blank"}
+- **Soheun Yi**, Yizhou Lu, Chandler Squires, and Pradeep Ravikumar. "Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation". arXiv preprint, 2026. [arXiv](https://arxiv.org/abs/2606.18509){:target="_blank"}
 
+- **Soheun Yi**, John Alison, and Mikael Kuusela. "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions". ML4PS Workshop at NeurIPS 2024. [arXiv](https://arxiv.org/abs/2409.06960){:target="_blank"}
