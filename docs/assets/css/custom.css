@@ -1,4 +1,183 @@
 /* Override author profile styles */
+
+/* Light/dark theme toggle */
+.theme-toggle {
+  align-items: center;
+  align-self: center;
+  background: transparent;
+  border: 1px solid #d5d8dc;
+  border-radius: 999px;
+  color: #494e52;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 2.25rem;
+  justify-content: center;
+  margin: 0 0.25rem 0 0.75rem;
+  padding: 0;
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease;
+  width: 2.25rem;
+}
+
+.theme-toggle:hover {
+  background: #f2f3f3;
+  color: #2f7f93;
+}
+
+.theme-toggle:focus-visible {
+  outline: 3px solid rgba(47, 127, 147, 0.35);
+  outline-offset: 2px;
+}
+
+.theme-toggle__icon {
+  fill: none;
+  height: 1.05rem;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.8;
+  width: 1.05rem;
+}
+
+.theme-toggle__icon--sun,
+[data-theme="dark"] .theme-toggle__icon--moon {
+  display: none;
+}
+
+[data-theme="dark"] .theme-toggle__icon--sun {
+  display: block;
+}
+
+[data-theme="dark"] body,
+[data-theme="dark"] .initial-content,
+[data-theme="dark"] .search-content {
+  background-color: #111827;
+  color: #cbd5e1;
+}
+
+[data-theme="dark"] .masthead,
+[data-theme="dark"] .greedy-nav,
+[data-theme="dark"] .greedy-nav .visible-links,
+[data-theme="dark"] .greedy-nav .hidden-links {
+  background-color: #0b1220;
+}
+
+[data-theme="dark"] .masthead {
+  border-bottom-color: #263244;
+}
+
+[data-theme="dark"] .site-title,
+[data-theme="dark"] .masthead__menu-item a,
+[data-theme="dark"] .greedy-nav a,
+[data-theme="dark"] .author__name,
+[data-theme="dark"] .author__bio,
+[data-theme="dark"] .author__urls a,
+[data-theme="dark"] .page__content,
+[data-theme="dark"] .page__meta,
+[data-theme="dark"] .archive__item-title,
+[data-theme="dark"] .archive__item-excerpt {
+  color: #cbd5e1;
+}
+
+[data-theme="dark"] h1,
+[data-theme="dark"] h2,
+[data-theme="dark"] h3,
+[data-theme="dark"] h4,
+[data-theme="dark"] h5,
+[data-theme="dark"] h6,
+[data-theme="dark"] .page__title,
+[data-theme="dark"] .archive__subtitle {
+  color: #f1f5f9;
+}
+
+[data-theme="dark"] a,
+[data-theme="dark"] .page__content a,
+[data-theme="dark"] .author__urls a:hover {
+  color: #7dd3fc;
+}
+
+[data-theme="dark"] a:visited,
+[data-theme="dark"] .page__content a:visited {
+  color: #c4b5fd;
+}
+
+[data-theme="dark"] a:hover,
+[data-theme="dark"] .page__content a:hover {
+  color: #bae6fd;
+}
+
+[data-theme="dark"] .theme-toggle {
+  border-color: #475569;
+  color: #fbbf24;
+}
+
+[data-theme="dark"] .theme-toggle:hover {
+  background-color: #1e293b;
+  border-color: #64748b;
+}
+
+[data-theme="dark"] .greedy-nav .hidden-links {
+  border-color: #334155;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+}
+
+[data-theme="dark"] .greedy-nav .hidden-links::before {
+  border-color: #334155 transparent;
+}
+
+[data-theme="dark"] .greedy-nav .hidden-links::after {
+  border-color: #0b1220 transparent;
+}
+
+[data-theme="dark"] .page__content h2,
+[data-theme="dark"] .archive__subtitle,
+[data-theme="dark"] hr {
+  border-bottom-color: #334155;
+}
+
+[data-theme="dark"] blockquote {
+  border-left-color: #475569;
+  color: #94a3b8;
+}
+
+[data-theme="dark"] code,
+[data-theme="dark"] pre,
+[data-theme="dark"] .highlight,
+[data-theme="dark"] .highlighter-rouge {
+  background-color: #1e293b;
+  color: #e2e8f0;
+}
+
+[data-theme="dark"] table,
+[data-theme="dark"] th,
+[data-theme="dark"] td {
+  border-color: #334155;
+}
+
+[data-theme="dark"] tbody tr:hover {
+  background-color: #1e293b;
+}
+
+[data-theme="dark"] .page__footer {
+  background-color: #0b1220;
+  color: #94a3b8;
+}
+
+[data-theme="dark"] .page__footer a {
+  color: #cbd5e1;
+}
+
+[data-theme="dark"] .author__avatar img {
+  border-color: #475569;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.45);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .theme-toggle {
+    transition: none;
+  }
+}
+
 .author__urls-wrapper {
   display: flex !important;
   flex-direction: column !important;
@@ -151,4 +330,4 @@
     opacity: 1 !important;
     width: auto !important;
   }
-} 
+}
