@@ -55,6 +55,11 @@
   color: #cbd5e1;
 }
 
+[data-theme="dark"] {
+  --night-link-color: #7dd3fc;
+  --night-link-hover-color: #bae6fd;
+}
+
 [data-theme="dark"] .masthead,
 [data-theme="dark"] .greedy-nav,
 [data-theme="dark"] .greedy-nav .visible-links,
@@ -66,12 +71,8 @@
   border-bottom-color: #263244;
 }
 
-[data-theme="dark"] .site-title,
-[data-theme="dark"] .masthead__menu-item a,
-[data-theme="dark"] .greedy-nav a,
 [data-theme="dark"] .author__name,
 [data-theme="dark"] .author__bio,
-[data-theme="dark"] .author__urls a,
 [data-theme="dark"] .page__content,
 [data-theme="dark"] .page__meta,
 [data-theme="dark"] .archive__item-title,
@@ -91,19 +92,13 @@
 }
 
 [data-theme="dark"] a,
-[data-theme="dark"] .page__content a,
-[data-theme="dark"] .author__urls a:hover {
-  color: #7dd3fc;
-}
-
-[data-theme="dark"] a:visited,
-[data-theme="dark"] .page__content a:visited {
-  color: #c4b5fd;
+[data-theme="dark"] a:visited {
+  color: var(--night-link-color);
 }
 
 [data-theme="dark"] a:hover,
-[data-theme="dark"] .page__content a:hover {
-  color: #bae6fd;
+[data-theme="dark"] a:focus-visible {
+  color: var(--night-link-hover-color);
 }
 
 [data-theme="dark"] .theme-toggle {
@@ -127,6 +122,22 @@
 
 [data-theme="dark"] .greedy-nav .hidden-links::after {
   border-color: #0b1220 transparent;
+}
+
+@media (max-width: 63.999em) {
+  [data-theme="dark"] .author__urls {
+    background-color: #1e293b;
+    border-color: #334155;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  [data-theme="dark"] .author__urls::before {
+    border-color: #334155 transparent;
+  }
+
+  [data-theme="dark"] .author__urls::after {
+    border-color: #1e293b transparent;
+  }
 }
 
 [data-theme="dark"] .page__content h2,
@@ -163,8 +174,11 @@
   color: #94a3b8;
 }
 
-[data-theme="dark"] .page__footer a {
-  color: #cbd5e1;
+[data-theme="dark"] .page__footer .fas,
+[data-theme="dark"] .page__footer .fab,
+[data-theme="dark"] .page__footer .far,
+[data-theme="dark"] .page__footer .fal {
+  color: var(--night-link-color);
 }
 
 [data-theme="dark"] .author__avatar img {
