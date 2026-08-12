@@ -3,7 +3,9 @@ layout: single
 author_profile: true
 title: 
 ---
-I am a third-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. I hold a B.S. in Mathematical Sciences from Seoul National University. 
+I am a third-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. 
+I am fortunate to be advised by [Prof. Gonzalo Mena][gonzalo]{:target="_blank"} and [Prof. Sivaraman Balakrishnan][siva]{:target="_blank"}.
+I hold a B.S. in Mathematical Sciences from Seoul National University. 
 
 I study theoretical aspects of machine learning, ranging from optimization theory to statistics.
 My recent interest spans optimal transport and continuous dynamics with real-world applications, including [physical sciences][yialisonkuusela2024ml4ps]{:target="_blank"}.
@@ -30,3 +32,5 @@ Email: soheuny [at] andrew [dot] cmu [dot] edu
 [yileeryu2024siopt]: https://arxiv.org/abs/2207.04015
 [yialisonkuusela2024ml4ps]: https://arxiv.org/abs/2409.06960
 [kraftonai]: https://www.krafton.ai/en/
+[siva]: https://www.stat.cmu.edu/~siva/
+[gonzalo]: https://gomena.github.io/
