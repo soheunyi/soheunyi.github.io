@@ -4,14 +4,14 @@ author_profile: true
 title: 
 ---
 I am a third-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. 
-I am fortunate to be advised by [Prof. Gonzalo Mena][gonzalo]{:target="_blank"} and [Prof. Sivaraman Balakrishnan][siva]{:target="_blank"}.
+I am fortunate to be advised by Professor [Gonzalo Mena][gonzalo]{:target="_blank"} and Professor [Sivaraman Balakrishnan][siva]{:target="_blank"}.
 I hold a B.S. in Mathematical Sciences from Seoul National University. 
 
 I study theoretical aspects of machine learning, ranging from optimization theory to statistics.
 My recent interest spans optimal transport and continuous dynamics with real-world applications, including [physical sciences][yialisonkuusela2024ml4ps]{:target="_blank"}.
 
 Prior to CMU, I worked as a research scientist at [Krafton AI][kraftonai]{:target="_blank"} and as a quantitative analyst in [Hyperithm][hyperithm]{:target="_blank"}.
-At SNU, I was fortunate to be advised by Professors [Ernest K. Ryu][Ryu]{:target="_blank"} and [Sanghack Lee][Lee]{:target="_blank"} on research projects around theoretical aspects of machine learning, mainly [optimization theory][yileeryu2024siopt]{:target="_blank"} and [graphical models][yilee2024aistats]{:target="_blank"}.
+At SNU, I was fortunate to be advised by Professor [Ernest K. Ryu][Ryu]{:target="_blank"} and Professor [Sanghack Lee][Lee]{:target="_blank"} on research projects around theoretical aspects of machine learning, mainly [optimization theory][yileeryu2024siopt]{:target="_blank"} and [graphical models][yilee2024aistats]{:target="_blank"}.
 
 You can find my CV [here](../assets/soheunyi_cv.pdf){:target="_blank"}.
 
