@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: 
 ---
-I am a third-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. 
+I am a fourth-year Ph.D. student in the Department of Statistics & Data Science at Carnegie Mellon University. 
 I am fortunate to be advised by Professor [Gonzalo Mena][gonzalo]{:target="_blank"} and Professor [Sivaraman Balakrishnan][siva]{:target="_blank"}.
 I hold a B.S. in Mathematical Sciences from Seoul National University. 
 
