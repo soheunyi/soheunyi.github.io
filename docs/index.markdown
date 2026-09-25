@@ -19,7 +19,7 @@ Email: soheuny [at] andrew [dot] cmu [dot] edu
 
 # News
 
-- **2025.09.** A paper entitled "Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation" has been accepted to NeurIPS 2026.
+- **2026.09.** A paper entitled "Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation" has been accepted to NeurIPS 2026.
 - **2025.08.** A paper entitled "Convergence Analyses of Davis–Yin Splitting via Scaled Relative Graphs II: Convex Optimization Problems" has been accepted to Optimization.
 - **2024.12.** I will be presenting our work entitled "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions" at ML4PS Workshop at NeurIPS 2024.
 - **2024.06.** A paper entitled "Convergence Analyses of Davis-Yin Splitting via Scaled Relative Graphs" has been accepted to SIAM Journal on Optimization (SIOPT).
