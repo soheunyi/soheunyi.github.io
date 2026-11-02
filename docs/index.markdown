@@ -19,6 +19,7 @@ Email: soheuny [at] andrew [dot] cmu [dot] edu
 
 # News
 
+- **2026.10.** A preprint entitled "Model-Agnostic Search for New Physics in the Presence of Imperfect Background by Smearing the Data" is now available on [arXiv](https://arxiv.org/abs/2610.40734){:target="_blank"}.
 - **2026.09.** A paper entitled "Concept Modulation Models: A Unified Framework for Identifiability and Extrapolation" has been accepted to NeurIPS 2026.
 - **2025.08.** A paper entitled "Convergence Analyses of Davis–Yin Splitting via Scaled Relative Graphs II: Convex Optimization Problems" has been accepted to Optimization.
 - **2024.12.** I will be presenting our work entitled "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions" at ML4PS Workshop at NeurIPS 2024.

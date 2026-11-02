@@ -17,4 +17,6 @@ title: Publications
 
   
 ## Preprints
+- **Soheun Yi**, John Alison, and Mikael Kuusela. "Model-Agnostic Search for New Physics in the Presence of Imperfect Background by Smearing the Data". Preprint, 2026. [arXiv](https://arxiv.org/abs/2610.40734){:target="_blank"}
+
 - **Soheun Yi**, John Alison, and Mikael Kuusela. "Toward Model-Agnostic Detection of New Physics Using Data-Driven Signal Regions". ML4PS Workshop at NeurIPS 2024. [arXiv](https://arxiv.org/abs/2409.06960){:target="_blank"}
